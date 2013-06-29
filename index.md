@@ -23,7 +23,7 @@ I am currently a second year Master candidate of Beijing University of Posts and
 ### Education:
 
 1. **09/2011 -- present.**                                                                 
-  MASc in Human Machine Interaction, Beijing University of Posts and Telecommunications.
+  MSc in Human Machine Interaction, Beijing University of Posts and Telecommunications.
 
 2. **09/2007 -- 07/2011.**                                                             
   B.S. in Information security, Xidian University.
@@ -31,29 +31,27 @@ I am currently a second year Master candidate of Beijing University of Posts and
 
 ### Projects:
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+1. **09/2011 -- present.**                                                                 
+  MSc in Human Machine Interaction, Beijing University of Posts and Telecommunications.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+2. **09/2007 -- 07/2011.**                                                             
+  B.S. in Information security, Xidian University.
 
 
 ### Publications:
 
-    1 paper1
+- paper1
+- Sheng Feng, Xiaogang Qi, Jilong Xue, A Novel Framework to Maximum Lifetime for Wireless Sensor Network, Intelligent Computing and Information Science, 2010.[pdf](http://www.springerlink.com/index/NU48729372077502.pdf) 
 
 
 ### Basic skills:
 
-- familiar with C++, python
+- IELTS: 6.5
+- Good at C/C++, python; familiar with Java in two years ago
+- Some knowledge of data structures and software engineer practices
 - 6 years experience of linux system
+- Familiar with information retrieval; keep a eye to machine learning subjects
+- Skills to process big data, such as: mysql, NoSQL databases, Mapreduce
 
 
 ### Hobbies:
