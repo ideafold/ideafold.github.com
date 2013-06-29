@@ -41,7 +41,7 @@ I am currently a second year Master candidate of Beijing University of Posts and
 ### Publications:
 
 - paper1
-- Sheng Feng, Xiaogang Qi, Jilong Xue, A Novel Framework to Maximum Lifetime for Wireless Sensor Network, Intelligent Computing and Information Science, 2010.[pdf](http://www.springerlink.com/index/NU48729372077502.pdf) 
+- Sheng Feng, Xiaogang Qi, Jilong Xue, A Novel Framework to Maximum Lifetime for Wireless Sensor Network, Intelligent Computing and Information Science, 2010. [\[pdf\]](http://www.springerlink.com/index/NU48729372077502.pdf) 
 
 
 ### Basic skills:
