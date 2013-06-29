@@ -31,11 +31,20 @@ I am currently a second year Master candidate of Beijing University of Posts and
 
 ### Projects:
 
-1. **09/2011 -- present.**                                                                 
-  MSc in Human Machine Interaction, Beijing University of Posts and Telecommunications.
+1. **09/2012 -- present. Beijing University of Posts and Telecommunications**                            
+  open domain chat bot system.
 
-2. **09/2007 -- 07/2011.**                                                             
-  B.S. in Information security, Xidian University.
+2. **07/20012 -- 04/2013. Alibaba Group**                             
+  develop the recommendation system. from pv 300w to N thousand millions pv. the number 1 recommendation system of China.
+
+2. **12/2011 -- 07/2012. Beijing University of Posts and Telecommunications**                         
+  a short study of image recognition system.
+
+2. **09/2009 -- 05/2011. Xidian University**                                                             
+  a project to study the route algorithms of wireless sensor.
+
+2. **06/2008 -- 07/2009. Xidian University**                                       
+  Establish the Xidian linux club, now it is supported by IBM. Act as the first chairman
 
 
 ### Publications:
