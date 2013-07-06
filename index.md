@@ -12,6 +12,7 @@ tagline:
 - [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/)
 - No. 10 Xi Tu Cheng Road
 - Beijing, China, 100876
+- My hometown is located in ZhuHai city in Guang Dong province
 - Email: `shengfeng2008 at gmail.com`
 
 
@@ -32,7 +33,7 @@ I am currently a second year Master candidate of Beijing University of Posts and
 ### Projects:
 
 1. **09/2012 -- present. Beijing University of Posts and Telecommunications**                            
-  Out of interest, I have been under developing an open domain chat bot system, which is a system using text as input and is expected to be more than a combination of ALICE and Waston of DeepQA. In the reseach of the pass half year, I mainly have two discovers: i. to better understand the human language for a machine, it needs a good equipment(something like brain) and large scale facts; ii. an excellent business model is a must. The business model is used to promote the knowledge accumulation, after all, machines do not have foot or nose and can not get acquainted with the real world. A good business model should maintain a health ecosystem among the knowledge producer, rules developer and knowledge customers.
+  Out of interest, I have been under developing an open domain chat bot system, which is a system using text as input and is expected to be more than a combination of ALICE and Waston of DeepQA. In the reseach of the pass half year, I mainly have two discovers: i. to better understand the human language for a machine, it needs a good equipment(something like brain) and large scale facts; ii. an excellent business model is a must. The business model is used to promote the knowledge accumulation, after all, machines do not have foot or nose and can not get acquainted with the real world. A good business model should maintain a health ecosystem among the knowledge producer, rules developer and knowledge customers. [Read more](http://localhost:4000/2013/07/06/the-chat-bot-system-xianzhi/)
 
 2. **07/2012 -- 04/2013. Alibaba Group**                             
   Over the period, as a Searching R&D Engineer of the recommendation team, I saw that the system we developed had experienced a rapid growth with pv increasing from 300w to serveral thousand millions, standing out as the largest web page recommendation system of China. What I did included digging hot searching queries and computing and generating web page recommendations. I, as a core developer, had took part in the development of the web page recommendation system, which needs to process several Tbs training data and update the recomomendation model.
@@ -57,7 +58,7 @@ I am currently a second year Master candidate of Beijing University of Posts and
 ### Basic stuffs and skills:
 
 - GPA: about 80.00 in undergraduate degree and about 81.60 in master degree
-- English level: CET 6; on the way to IELTS: 6.5
+- Language: be proficient in Cantonese and Chinese; English level: CET 6; on the way to IELTS: 6.5
 - Good at C/C++, python; familiar with Java but in two years ago
 - Have a knowledge of data structures and software engineer practices
 - 6 years using experience of linux system
