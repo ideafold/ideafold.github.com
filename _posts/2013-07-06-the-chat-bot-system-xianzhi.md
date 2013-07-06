@@ -10,7 +10,7 @@ tags: [chat bog, xianzhi, deepqa]
 ### 系统构成:
 &nbsp;&nbsp;整个大系统由逻辑系统和数据两部分构成。<br>
 
-&nbsp;&nbsp;逻辑系统由三个子系统构成：mobile-end app, web logic processing system, chat-bot server system. 其中，chat-bot server比较复杂，再次分为四个子系统：chat-bot logic server system, searching server system, input智能提示子系统. <br>
+&nbsp;&nbsp;逻辑系统由三个子系统构成：mobile-end app, web logic processing system, chat-bot server system. 其中，chat-bot server比较复杂，再划分为四个子系统：chat-bot logic server system, searching server system, input智能提示子系统. <br>
 
 &nbsp;&nbsp;数据系统中有一个在线系统和两个离线系统. 离线系统包括爬虫系统, 数据预处理系统, 而在线数据系统服务于广告主和内容生产商(注意这两个可以是同一个人)。
 
@@ -31,7 +31,7 @@ tags: [chat bog, xianzhi, deepqa]
 
 ### 任务分工
 
-&nbsp;&nbsp;除了mobile-end app是请一个研究生一年级的同学开发，其余工作目前都是由andy feng完成。
+&nbsp;&nbsp;除了mobile-end app是请一个研究生一年级的同学开发的(需要支付salary)，其余工作目前都是由andy feng完成。
 
 <br>
 <br>
