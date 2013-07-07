@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Andy Feng
+title: Andy Feng(冯升)
 tagline: 
 ---
 {% include JB/setup %}
@@ -45,7 +45,7 @@ I am currently a second year Master candidate of Beijing University of Posts and
   In this period, lot of effort had been put on studying the route algorithms of wireless sensor, which was a project of National Undergraduate Innovative Experiment Program of China. Actually, playing around graph was all the stuffs what we had to do. At last, our team ranked the 10th among 100 teams.
 
 5. **06/2008 -- 07/2009. Xidian University**                                       
-  Established the [Xidian Linux Club](http://linux.xidian.edu.cn/bbs/forum.php) which has been supported by IBM since 2009. In this year, I acted as the first chairman of this club. Besides, I was a member of the NewStar project which was supervised by Dr Hang Li. In this project, my main responsibility was to customize and optimize a linux system and to study the [Virtual Synchrony](http://en.wikipedia.org/wiki/Virtual_synchrony).
+  Established the [Xidian Linux Club](http://linux.xidian.edu.cn/bbs/forum.php) which has been supported by IBM since 2009. In this year, I acted as the first chairman of this club. Besides, I was a member of the NewStar project which was supervised by Dr Hang Li. In this project, my main responsibility was to customize and optimize a Linux system and to study the [Virtual Synchrony](http://en.wikipedia.org/wiki/Virtual_synchrony).
 
 
 ### Publications:
