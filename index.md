@@ -14,6 +14,7 @@ tagline:
 - Beijing, China, 100876
 - My hometown is located in ZhuHai city in Guang Dong province
 - Email: `shengfeng2008 at gmail.com`
+- Tel: +86-18810529405
 
 
 ### General Info:
