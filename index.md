@@ -33,13 +33,13 @@ I am currently a second year Master candidate of Beijing University of Posts and
 ### Projects:
 
 1. **09/2012 -- present. Beijing University of Posts and Telecommunications**                            
-  Out of interest, I have been under developing an open domain chat bot system, which is a system using text as input and is expected to be more than a combination of ALICE and Waston of DeepQA. In the reseach of the pass half year, I mainly have two discoveries: i. to better understand the human language for a machine, it needs a good equipment(something like brain) and large scale facts; ii. an excellent business model is a must. The business model is used to promote the knowledge accumulation, after all, machines do not have foot or nose and can not get acquainted with the real world. A good business model should maintain a health ecosystem among the knowledge producers, rules makers and knowledge customers. [Read more](http://ideafold.github.io/2013/07/06/the-chat-bot-system-xianzhi/)
+  Out of interest, I have been under developing an open domain chat bot system, which is a system using text as input and is expected to be more than a combination of ALICE and Waston of DeepQA. In the reseach of the past half year, I mainly have two discoveries: i. to better understand the human language for a machine, it needs a good equipment(something like brain) and large scale facts; ii. an excellent business model is a must. The business model is used to promote the knowledge accumulation, after all, machines do not have foot or nose and can not get acquainted with the real world. A good business model should maintain a health ecosystem among the knowledge producers, rules makers and knowledge customers. [Read more](http://ideafold.github.io/2013/07/06/the-chat-bot-system-xianzhi/)
 
 2. **07/2012 -- 04/2013. Alibaba Group**                             
-  Over the period, as a Searching R&D Engineer of the recommendation team, I saw that the system we developed had experienced a rapid growth with pv increasing from 300w to serveral hundred millions, standing out as the largest web page recommendation system of China. What I did included digging hot searching queries and computing and generating web page recommendations. I, as a core developer, had took part in the development of the web page recommendation system, which needs to process several Tbs training data and update the recomomendation model.
+  Over the period, as a Searching R&D Engineer of the recommendation team, I saw that the system we developed had experienced a rapid growth with pv increasing from 300w to serveral hundred millions, standing out as the largest web page recommendation system of China. My duty was to develop software for digging hot searching queries and computing and generating web page recommendations. I, as a core developer, had took part in the development of the web page recommendation system, which needs to process several terabytes training data and update the recomomendation model.
 
 3. **12/2011 -- 07/2012. Beijing University of Posts and Telecommunications**                         
-  In an assignment, we were asked to recognize the fell athletes in a football match video. My solution was Surf + Bag of Words + 3 classifiers, which outperform others with precision 0.78. After that, I went go studying image recognition system and image retrieval system, mainly paying close attention to the Exemplar Model，the descriptors of shape and other descriptors, such as SIFT. But what impressed me most were those two projects: [Sketch2Photo](http://cg.cs.tsinghua.edu.cn/montage/main.htm) and [MindFinder](http://wwwconference.org/proceedings/www2010/www/p1309.pdf). The idea behind those work is something like that: first, user draw the shape of an object or scenery on a canvas; then the ready canvas was inputted to the image processing system. Finally, the image processing system will return user a set of images which tally with the canvas's description. What on earth make their results so excellent? In my opinion, it's that their solution had implicitly utilized the bottom up && top down mechanism the way our brains work. This idea had made significant effect to my research, especially the development of the chat bot system.
+  In an assignment, we were asked to recognize the fell athletes in a football match video. My solution was Surf + Bag of Words + 3 classifiers, which outperformed other terms with precision 0.78. After that, I went on studying image recognition system and image retrieval system, mainly paying close attention to the Exemplar Model, the descriptors of shape and other descriptors, such as SIFT. But what impressed me most were those two projects: [Sketch2Photo](http://cg.cs.tsinghua.edu.cn/montage/main.htm) and [MindFinder](http://wwwconference.org/proceedings/www2010/www/p1309.pdf). The idea behind those works is something like that: first, the user draws the shapes of an object or scenery on a canvas; then the ready canvas will be inputted to the image processing system. Finally, the image processing system can return user a set of images which tally with the canvas's description. What on earth make their results so excellent? In my opinion, it's that their solution had implicitly utilized the bottom up && top down mechanism the way our brains work. This idea had made significant effect to my research, especially the development of the chat bot system.
 
 4. **09/2009 -- 05/2011. Xidian University**                                                             
   In this period, lot of effort had been put on studying the route algorithms of wireless sensor, which was a project of National Undergraduate Innovative Experiment Program of China. Actually, playing around graph was all the stuffs what we had to do. At last, our team ranked the 10th among 100 teams.
@@ -58,7 +58,7 @@ I am currently a second year Master candidate of Beijing University of Posts and
 ### Basic stuffs and skills:
 
 - GPA: about 80.00 in undergraduate degree and about 81.60 in master degree
-- Language: be proficient in Cantonese and Chinese; English level: CET 6; on the way to IELTS: 6.5
+- Language: Cantonese and Chinese are my mother tongues; English level: CET 6; on the way to IELTS: 6.5
 - Good at C/C++, python; familiar with Java but in two years ago
 - Have a knowledge of data structures and software engineer practices
 - 6 years using experience of linux system
@@ -68,7 +68,7 @@ I am currently a second year Master candidate of Beijing University of Posts and
 
 ### Hobbies:
 
-- Collecting photos about scenic of islands and sea
+- Collecting photos about sceneries of islands and sea
 - Listening music
 - Do sports almost every day
 - more ...

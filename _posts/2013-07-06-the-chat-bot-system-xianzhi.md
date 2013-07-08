@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the chat bot system: XianZhi"
+title: "The chat bot system: XianZhi"
 description: ""
 category: 
 tags: [chat bog, xianzhi, deepqa]
@@ -22,10 +22,10 @@ tags: [chat bog, xianzhi, deepqa]
 - web logic processing system: 70%
 - chat-bot logic server system: 70%
 - searching server system: 80%
-- input智能提示子系统: No
+- input智能提示子系统: 0%
 
 2. **数据系统.**
-- 在线数据系统: No 
+- 在线数据系统: 0% 
 - 爬虫系统: 初级版本的爬虫已经上线。每天可以收获到15w有效数据items。
 - 数据预处理系统: 60%
 
