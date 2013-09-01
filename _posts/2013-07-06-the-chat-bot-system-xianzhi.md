@@ -1,37 +1,37 @@
 ---
 layout: post
-title: "The chat bot system: XianZhi"
+title: "The chat bot system: Xiaohuoban"
 description: ""
 category: 
 tags: [chat bog, xianzhi, deepqa]
 ---
 {% include JB/setup %}
 
-### 系统构成:
-&nbsp;&nbsp;整个大系统由逻辑系统和数据两部分构成。<br>
+### The system architecture:
+&nbsp;&nbsp;The big system consists of a logic system and a data processing system. <br>
 
-&nbsp;&nbsp;逻辑系统由三个子系统构成：mobile-end app, web logic processing system, chat-bot server system. 其中，chat-bot server比较复杂，再划分为四个子系统：chat-bot logic server system, searching server system, input智能提示子系统. 更多信息请参考[Equip Chatbot with knowledge-rich mind.doc](https://github.com/ideafold/ideafold.github.com/blob/master/assets/Equip%20Chatbot%20with%20knowledge-rich%20mind.doc?raw=true)<br>
+&nbsp;&nbsp;The logic system consists the following three subsystems: mobile-end app, web logic processing system, chat-bot server system. However, the chat-bot server is somehow complex, so it should be splited into the following four subsystems: chat-bot logic server system, searching server system, input suggestions system. More information can be found here [Equip Chatbot with knowledge-rich mind.doc](https://github.com/ideafold/ideafold.github.com/blob/master/assets/Equip%20Chatbot%20with%20knowledge-rich%20mind.doc?raw=true)<br>
 
-&nbsp;&nbsp;数据系统中有一个在线系统和两个离线系统. 离线系统包括爬虫系统, 数据预处理系统, 而在线数据系统服务于广告主和内容生产商(注意这两个可以是同一个人)。
+&nbsp;&nbsp;Data processing system includes one online system and two offline systems. Crawler system and the data preprocess system belong to the offline systems, and the online system service the advertisers and content producers.
 
 
-### 开发进度
+### Development milestores
 
-1. **逻辑系统.**
-- mobile-end app: 70%
-- web logic processing system: 70%
-- chat-bot logic server system: 70%
-- searching server system: 80%
-- input智能提示子系统: 0%
+1. **The logic system.**
+- mobile-end app: 95% `(Beta version will be released in those days!!, please pay attention)`
+- web logic processing system: 100%
+- chat-bot logic server system: 100% (but data is under cleaning)
+- searching server system: 100%
+- input suggestions system: 100%
 
-2. **数据系统.**
-- 在线数据系统: 0% 
-- 爬虫系统: 初级版本的爬虫已经上线。每天可以收获到15w有效数据items。
-- 数据预处理系统: 60%
+2. **The data processing system.**
+- The online data collecting system: 0% 
+- Crawler system: Beta version had been online
+- Offline data preprocess system: 80%
 
-### 任务分工
+### Team compostion
 
-&nbsp;&nbsp;除了mobile-end app是请一个研究生一年级的同学开发的(需要支付salary)，其余工作目前都是由andy feng完成。
+&nbsp;&nbsp;Andy Feng is main developer and investor, besides some optimizing work on mobile-end app was undertook by a grade one postgraduate classmate (needing to pay salary).
 
 <br>
 <br>
